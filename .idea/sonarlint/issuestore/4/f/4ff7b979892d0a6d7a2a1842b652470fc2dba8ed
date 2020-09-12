@@ -1,0 +1,17 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8â°ßâ¥.
+D
+java:S1659[""Declare "next" on a separate line.(çŒ¹úùÿÿÿÿ8â°ßâ¥.
+7
+java:S1220""Move this file to a named package.8â°ßâ¥.
+X	java:S125 "<This block of commented-out lines of code should be removed.(Áüü„8â°ßâ¥.
+E
+java:S2440&"#Remove this instantiation of "GfG".(²–¥þÿÿÿÿ8â°ßâ¥.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(ç‘›·þÿÿÿÿ8â°ßâ¥.
+D
+java:S1659[""Declare "prev" on a separate line.(çŒ¹úùÿÿÿÿ8â°ßâ¥.
+W
+java:S2209'"5Change this instance-reference to a static reference.(èßúÝûÿÿÿÿ8â°ßâ¥.
+d
+java:S3973e"GUse indentation to denote the code conditionally executed by this "if".(òå¦‹8â°ßâ¥.
+]	java:S125L"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8â°ßâ¥.

@@ -1,0 +1,9 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(êÚ“ß8»»´Œ¹.
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ôÊ‘äþÿÿÿÿ8¨÷÷Ž¹.
+]	java:S125"<This block of commented-out lines of code should be removed.(ö¯—Ëúÿÿÿÿ8¨÷÷Ž¹.
+s
+java:S34572"Q%n should be used in place of \n to produce the platform-specific line separator.(Éœ³ûÿÿÿÿ8»»´Œ¹.
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ8»»´Œ¹.

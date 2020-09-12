@@ -1,0 +1,5 @@
+
+_
+java:S2094	"BRemove this empty class, write its code or make it an "interface".(ÖÈ¼è8æ°ßâ¥.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(äì”ê8æ°ßâ¥.

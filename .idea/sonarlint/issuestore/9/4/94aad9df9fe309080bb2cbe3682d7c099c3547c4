@@ -1,0 +1,30 @@
+
+]	java:S125D"<This block of commented-out lines of code should be removed.(ÍÿŽ¿üÿÿÿÿ8ä°ßâ¥.
+U
+java:S1197!"8Move the array designator from the variable to the type.(œÚµÐ8ä°ßâ¥.
+U
+java:S1197"8Move the array designator from the variable to the type.(‡½¤Ò8ä°ßâ¥.
+Q
+java:S1854/"5Remove this useless assignment to local variable "i".(éÔ¬|8ä°ßâ¥.
+v
+java:S30121"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(©§ªÆ8ä°ßâ¥.
+;
+java:S1659/"Declare "k" on a separate line.(éÔ¬|8ä°ßâ¥.
+Ž
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(§‰Ìýÿÿÿÿ8ä°ßâ¥.
+X	java:S1255"<This block of commented-out lines of code should be removed.(ÒÀ‡é8ä°ßâ¥.
+Z
+java:S1197"8Move the array designator from the variable to the type.(Ÿš÷üùÿÿÿÿ8ä°ßâ¥.
+U
+java:S1197!"8Move the array designator from the variable to the type.(œÚµÐ8ä°ßâ¥.
+
+java:S41650"_Remove this useless assignment; "i" already holds the assigned value along all execution paths.(¥…¾†þÿÿÿÿ8ä°ßâ¥.
+]	java:S125$"<This block of commented-out lines of code should be removed.(Â¹ªŒøÿÿÿÿ8ä°ßâ¥.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ƒ’ëÝúÿÿÿÿ8ä°ßâ¥.
+X	java:S125<"<This block of commented-out lines of code should be removed.(Ê‘·š8ä°ßâ¥.
+;
+java:S1659/"Declare "j" on a separate line.(éÔ¬|8ä°ßâ¥.
+T
+java:S1197"8Move the array designator from the variable to the type.(—®>8ä°ßâ¥.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÅ‡˜8ä°ßâ¥.

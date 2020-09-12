@@ -1,0 +1,17 @@
+
+U
+java:S1197"8Move the array designator from the variable to the type.(êÚ“ß8üğº¿.
+Z
+java:S1197!"8Move the array designator from the variable to the type.(ÛïŸ‰øÿÿÿÿ8‡À™»¿.
+o
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(êÚ“ß8úÙğ»¿.
+U	java:S106H"9Replace this use of System.out or System.err by a logger.(ÜÅæ8àù»¿.
+Z
+java:S1197"8Move the array designator from the variable to the type.(§½‰Ëÿÿÿÿÿ8•——»¿.
+“
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(êÚ“ß8×äø½¿.
+X	java:S125"<This block of commented-out lines of code should be removed.(ûšİÀ8ÿÙ÷»¿.
+Z
+java:S1197M"8Move the array designator from the variable to the type.(Îíø¼ùÿÿÿÿ8íëè¼¿.
+Z
+java:S1197M"8Move the array designator from the variable to the type.(Îíø¼ùÿÿÿÿ8íëè¼¿.

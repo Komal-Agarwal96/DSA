@@ -1,0 +1,28 @@
+
+Z
+java:S1197"8Move the array designator from the variable to the type.(ü˜Ÿüÿÿÿÿ8İã±„©.
+U
+java:S1197X"8Move the array designator from the variable to the type.(¯‰÷Ì8Ë°’…©.
+U
+java:S1197+"8Move the array designator from the variable to the type.(ß—°Ô8µ×Ğ…©.
+t
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ü˜Ÿüÿÿÿÿ8ç¢ …©.
+Z
+java:S1197"8Move the array designator from the variable to the type.(ü˜Ÿüÿÿÿÿ8İã±„©.
+U
+java:S1197Y"8Move the array designator from the variable to the type.(¢ıŠğ8Ë°’…©.
+…
+java:S2234."hParameters to findMedianSortedArrays have the same names but not the same order as the method arguments.(×Ğßà8µ×Ğ…©.
+U	java:S106Z"9Replace this use of System.out or System.err by a logger.(×ƒáÉ8Œ«–…©.
+=
+java:S1659" Declare "hi" on a separate line.(›‹ÀÍ8‹¶½…©.
+U
+java:S1197+"8Move the array designator from the variable to the type.(ß—°Ô8µ×Ğ…©.
+o
+java:S3776+"RRefactor this method to reduce its Cognitive Complexity from 19 to the 15 allowed.(ß—°Ô8µ×Ğ…©.
+z
+java:S2234
+"XParameters to median have the same names but not the same order as the method arguments.(ğ¤›úÿÿÿÿ8©ÿ¥…©.
+‰
+java:S1130V"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(à¤’Ÿ8Ë°’…©.
+U	java:S106["9Replace this use of System.out or System.err by a logger.(ÄĞ±¯8¨€Ñ…©.

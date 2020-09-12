@@ -1,0 +1,12 @@
+
+K
+java:S1125I")Remove the literal "false" boolean value.(ú¤Úşÿÿÿÿ8¤›î±¦.
+O
+java:S1199Q"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8Çìô¨.
+Z
+java:S1197j"8Move the array designator from the variable to the type.(÷ãàÙùÿÿÿÿ8¤›î±¦.
+0
+java:S1220""Move this file to a named package.
+Z	java:S106c"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ8¤›î±¦.
+Z
+java:S1197^"8Move the array designator from the variable to the type.(±¹×Çûÿÿÿÿ8¤›î±¦.

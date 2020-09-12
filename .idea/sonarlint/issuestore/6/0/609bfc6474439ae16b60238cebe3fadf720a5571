@@ -1,0 +1,12 @@
+
+S	java:S106>"9Replace this use of System.out or System.err by a logger.(åö¡½úÿÿÿÿ
+f	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂÁü
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ãê›£şÿÿÿÿ
+f	java:S117R"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°óÿÓ
+b
+java:S3973J"GUse indentation to denote the code conditionally executed by this "if".(–Öôşÿÿÿÿ
+g
+java:S3457U"Q%n should be used in place of \n to produce the platform-specific line separator.(ïºÖÂ
+S
+java:S11971"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ
+f	java:S117A"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øçæ¹
